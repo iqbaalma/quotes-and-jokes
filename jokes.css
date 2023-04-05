@@ -49,7 +49,7 @@ body {
     border: 3px solid darkslategray;
     border-radius: 20px;
     padding: 10px;
-    max-width: 20%;
+    max-width: 200px;
 }
 
 .content>p {
