@@ -53,7 +53,7 @@ body {
     border: 3px solid darkslategray;
     border-radius: 20px;
     padding: 10px;
-    max-width: 200px;
+    max-width: 400px;
 }
 
 .content>p {
@@ -71,6 +71,8 @@ body {
     border: 2px solid tomato;
     position: inherit;
     border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 10px;
     padding: 10px;
     font-size: 15px;
     padding: 10px 30px;
