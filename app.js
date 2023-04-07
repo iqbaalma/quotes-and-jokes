@@ -10,3 +10,9 @@ quotes.addEventListener("click", () => {
     })
     .catch(() => alert("Error, quotes tidak berhasil dibuat!"));
 });
+
+quote.addEventListener("click", (x) => {
+  if (x %= 2) {
+    
+  }
+})

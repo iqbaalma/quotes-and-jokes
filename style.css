@@ -15,24 +15,27 @@ body {
 
 .quotes {
     color: darkslategray;
-    padding: 10px;
     border: 2px solid darkslategray;
+    padding: 10px;
     border-radius: 10px;
     text-decoration: none;
 }
 
-.jokes {
-    background-color: darkslategray;
+.quotes:hover {
+    background-color: blueviolet;
     color: white;
+}
+
+.jokes {
+    color: darkslategray;
     padding: 10px;
-    border: 2px solid darkslategray;
     border-radius: 10px;
     text-decoration: none;
 }
 
 .jokes:hover {
-    background-color: transparent;
-    color: darkslategray;
+    background-color: blueviolet;
+    color: white;
 }
 
 .content-section {
@@ -74,8 +77,9 @@ body {
 }
 
 .content>button:hover {
-    background-color: transparent;
-    color: tomato;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    color: rgb(255, 255, 255);
 }
 
 footer {
